@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   github: 'jbddqdddqdgwdddd',
-  linkedin: 'https://www.linkedin.com/in/victor-xing-a10435255/',
+  linkedin: 'victor-xing-a10435255/',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
